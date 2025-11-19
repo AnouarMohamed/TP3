@@ -9,10 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>net.anouar</groupId>
-    <artifactId>bdcc-enset-spring-mvc</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>bdcc-enset-spring-mvc</name>
-    <description>bdcc-enset-spring-mvc</description>
     <url/>
     <licenses>
         <license/>
@@ -50,7 +47,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.webjars/bootstrap -->
         <dependency>
             <groupId>org.webjars</groupId>
             <artifactId>bootstrap</artifactId>
